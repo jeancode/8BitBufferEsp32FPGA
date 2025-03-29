@@ -4,8 +4,8 @@
 #include <WebSocketsServer.h>
 #include <Metro.h>
 
-const char* ssid = "alien";
-const char* password = "5an32sjr";
+const char* ssid = "tu nombre de red";
+const char* password = "tupassword";
 
 WebServer server(80);
 WebSocketsServer webSocket(81);
